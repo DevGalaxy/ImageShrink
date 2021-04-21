@@ -1,1 +1,1 @@
-Electron.js Based App to Shrink image based on quality selected.
+Electron.js Based App to Shrink images based on quality selected.
